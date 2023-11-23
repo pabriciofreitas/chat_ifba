@@ -15,7 +15,8 @@ https://github.com/pabriciofreitas/chat_ifba
 
 # acessa projeto vscode :
 https://github.dev/pabriciofreitas/chat_ifba
-
+# comando para criar projeto 
+flutter create nome_do_projeto
 # Scritps para por no index.html
 
 <meta name="google-signin-client_id" content="387890314717-7vja5rjtngihstn4ng264ec6agp6o68c.apps.googleusercontent.com">
