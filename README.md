@@ -83,3 +83,14 @@ start ms-settings:developers
 # Gerar pasta da aplicação web
 
 flutter build web --web-renderer canvaskit
+
+
+
+{
+            "name": "chat_ifba(web)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": ["-d", "chrome", "--web-hostname", "localhost", "--web-port", "7357"]
+
+        },
