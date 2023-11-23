@@ -11,6 +11,10 @@ https://pabriciofreitas.github.io/
 https://console.firebase.google.com/u/0/
 
 # github do projeto:
+https://github.com/pabriciofreitas/chat_ifba
+
+# acessa projeto vscode :
+https://github.dev/pabriciofreitas/chat_ifba
 
 # Scritps para por no index.html
 
