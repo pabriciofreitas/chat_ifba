@@ -1,4 +1,5 @@
 # chat_ifba
+Esse projeto foi desenvolvido com intuito de apresentar em oficina de Desenvolvimento ministrado por Pabricio Freitas para IFBA - Valença
 
 # Links importantes:
 
